@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛頂經多羅菩薩念誦法
+#+DATE: 2015-08-30 20:30:03.609849
+#+PROPERTY: JUAN 0
